@@ -29,15 +29,7 @@ A partir do aceite pela UASG destinatária, a gestão operacional e a responsabi
 
 ---
 
-## Síntese do fluxo
-
-1. UASG de origem pratica os atos iniciais;
-2. Solicita substituição;
-3. UASG destinatária aprova;
-4. Sistema registra a substituição;
-5. Contratação conserva identificação e histórico;
-6. UASG de origem mantém consulta e autoria dos atos anteriores;
-7. UASG sub-rogada assume a gestão e os atos futuros.
+![Tela 15](Imagens/tela15-sinntese-fluxo.png)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
