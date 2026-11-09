@@ -21,7 +21,7 @@ A substituição de responsabilidade modifica a UASG que responde pela continuid
 **Duas Etapas para Efetivação**<BR>
 A UASG de origem solicita a substituição e a UASG destinatária analisa a solicitação. A efetivação demonstrada neste manual depende da aprovação pela destinatária.
 
-**note "Leitura das Telas**<BR>
+**Leitura das Telas**<BR>
 As imagens são exemplos demonstrativos. Os dados exibidos nas capturas contextualizam o preenchimento, sem constituir exigência de um número específico de contratação.
 
 <br>
