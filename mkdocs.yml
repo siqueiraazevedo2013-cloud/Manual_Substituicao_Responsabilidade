@@ -1,0 +1,26 @@
+site_name: Substituição de Responsabilidade no Novo DC
+
+theme:
+  name: readthedocs
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+
+nav:
+  - Início: index.md
+  - 1. Acessar o Compras.gov.br: 01-acessar-comprasgov.md
+  - 2. Solicitar a substituição: 02-solicitar-substituicao.md
+  - 3. Analisar e aprovar a substituição: 03-analisar-aprovar-substituicao.md
+  - 4. Conferir a contratação no PNCP: 04-conferir-pncp.md
+  - 5. Após o aceite da transferência: 05-apos-aceite-transferencia.md
+  - 🖨️ Versão Completa para Impressão: manual-completo.md
+
+# Configuração dos estilos e scripts customizados
+extra_css:
+  - custom.css
+  - css/extra.css
+
+extra_javascript:
+  - js/custom.js
+  - js/font-size.js
