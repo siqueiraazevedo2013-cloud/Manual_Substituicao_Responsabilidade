@@ -18,7 +18,7 @@ Após a aprovação pela UASG destinatária, a consulta no Portal Nacional de Co
 
 **Passo 15:** Na consulta ao PNCP, observe que o registro mantém a unidade compradora originária e identifica, em campo próprio, a unidade compradora sub-rogada. A contratação permanece vinculada à sua identificação de origem.
 
-![Tela 14](Imagens/tela14-pncp.png)
+![Tela 14](Imagens/tela14-registro-pncp)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
