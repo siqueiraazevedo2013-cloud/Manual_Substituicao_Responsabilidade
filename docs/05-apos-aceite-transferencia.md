@@ -14,7 +14,7 @@
 A partir do aceite pela UASG destinatária, a gestão operacional e a responsabilidade pelos atos futuros da contratação passam a ser de responsabilidade dos servidores dessa UASG. A numeração original, os documentos, as decisões e o histórico anterior permanecem vinculados ao procedimento de origem.
 
 !!! warning "Atenção"
-    A sub-rogação não cria outra contratação nem reinicia o processo. Ela apenas altera a unidade responsável pela continuidade dos atos, preservando a identificação, o histórico e a autoria dos atos anteriores.
+    A transferência de responsabilidade não cria outra contratação nem reinicia o processo. Ela apenas altera a unidade responsável pela continuidade dos atos, preservando a identificação, o histórico e a autoria dos atos anteriores.
 
 ---
 
