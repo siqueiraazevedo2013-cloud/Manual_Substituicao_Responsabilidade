@@ -18,11 +18,11 @@ A substituição de responsabilidade modifica a UASG que responde pela continuid
 !!! note "Nota"
     A operação não cria nova contratação: mantém sua identidade e preserva os registros de atos anteriores, enquanto transfere a responsabilidade pelos atos subsequentes à UASG destinatária após a aprovação.
 
-!!! info "Duas Etapas para Efetivação"
-    A UASG de origem solicita a substituição e a UASG destinatária analisa a solicitação. A efetivação demonstrada neste manual depende da aprovação pela destinatária.
+**Duas Etapas para Efetivação**<BR>
+A UASG de origem solicita a substituição e a UASG destinatária analisa a solicitação. A efetivação demonstrada neste manual depende da aprovação pela destinatária.
 
-!!! note "Leitura das Telas"
-    As imagens são exemplos demonstrativos. Os dados exibidos nas capturas contextualizam o preenchimento, sem constituir exigência de um número específico de contratação.
+**Leitura das Telas**<BR>
+As imagens são exemplos demonstrativos. Os dados exibidos nas capturas contextualizam o preenchimento, sem constituir exigência de um número específico de contratação.
 
 ---
 
